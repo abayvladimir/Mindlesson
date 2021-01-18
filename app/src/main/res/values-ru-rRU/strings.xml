@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mindlesson</string>
+    <string name="textValue">Русский язык</string>
+    <string name="mainButtonText">Кнопка русский язык</string>
+</resources>
